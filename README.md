@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-cristal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Labios de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-cristal/) |
+| **Get License** | [Obtain a Music License for Labios de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-cristal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8af97cee2c711f0785da5d2ede3fe44ccebe46699ce300f926e2ae0d5f08e88e` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

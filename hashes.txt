@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de cristal
+
+This log tracks the cryptographic history and versioning for the song **Labios de cristal** (labios-de-cristal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:11:03.700333 | `v1` | `8af97cee2c711f0785da5d2ede3fe44ccebe46699ce300f926e2ae0d5f08e88e` | `bfa4e215151dce49d13de76702775a624b6c357d476f758629e433e2b0fece05` | `2026-06-17_labios-de-cristal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
