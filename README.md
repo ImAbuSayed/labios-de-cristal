@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-cristal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Labios de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-cristal/) |
+| **Get License** | [Get License For Labios de cristal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-cristal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Brillan en la disco tus labios de cristal
+> Un misterio oscuro que me invita a pecar
+> Me acerco lento, no lo puedo evitar
+> Esa mirada tuya me quiere devorar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
